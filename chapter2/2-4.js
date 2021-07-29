@@ -17,6 +17,7 @@
  * 시험문제의 채점 결과가 주어졌을 때, 총 점수를 계산하는 프로그램을 작성하시오.
  *
  */
+
 function solution(arr) {
   let answer = 0;
   let cnt = 0;
